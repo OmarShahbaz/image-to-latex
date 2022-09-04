@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84465281853",
+    "project_id": "image-to-tex-3d379",
+    "storage_bucket": "image-to-tex-3d379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84465281853:android:96febcc02aef01f2a3f354",
+        "android_client_info": {
+          "package_name": "com.bskoskusk.imagetotex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84465281853-bjcj3npe1i94vhvg6k8lol064cnu5n2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZqljNrl2Iu1jm9OuH9Rek5081xV8W2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84465281853-bjcj3npe1i94vhvg6k8lol064cnu5n2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

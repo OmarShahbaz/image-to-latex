@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Image to Tex</string>
+    <!--Main Activity-->
+    <string name="appName">Image to LaTeX</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_text">Nice to see you! Please make sure you have any tex editor Installed on your PC to compile .tex files. Lets create your Latex file.</string>
+    <string name="lets_create_btn">Lets Create</string>
+    <!--SignIn Activity-->
+    <string name="user_name">E-mail</string>
+    <string name="password">Password</string>
+    <string name="required">*</string>
+    <string name="login_btn">Login</string>
+    <string name="text_hint_username">Username or Email Address</string>
+    <string name="text_hint_password">O  O  O  O  O  O</string>
+    <string name="need_help">Need help?</string>
+    <string name="or">OR</string>
+    <string name="goto_signUp">Create your account?</string>
+    <string name="skip_btn">Skip</string>
+    <!--SignUp Activity-->
+    <string name="user_name_signup">Username</string>
+    <string name="phone_no">Phone No</string>
+    <string name="email">Email Address</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_btn">Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--DocumentSelection Activity-->
+    <!--SimpleFile Activity-->
+    <!--ResearchPaper Activity-->
+    <string name="fragment_a">Add Preambles</string>
+    <string name="fragment_b">Title</string>
+    <string name="fragment_c">Author A Name</string>
+    <string name="fragment_d">Author A Details</string>
+    <string name="fragment_e">Author B Name</string>
+    <string name="fragment_f">Author B Details</string>
+    <!--Thesis Activity-->
+</resources>

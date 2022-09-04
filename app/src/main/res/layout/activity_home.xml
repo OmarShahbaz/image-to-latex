@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D0D3D4"
+    tools:context=".homeActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:transitionName="logo_image"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="80dp"
+        app:srcCompat="@drawable/texlogo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="73dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="255dp"
+        android:fontFamily="@font/bungee"
+        android:text="@string/welcome"
+        android:textColor="@color/black"
+        android:textSize="40sp"
+        android:transitionName="logo_text" />
+
+    <TextView
+        android:id="@+id/textViewDescrip"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="330dp"
+        android:fontFamily="@font/antic"
+        android:text="@string/welcome_text"
+        android:justificationMode="inter_word"
+        android:transitionName="continue_trans"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="69dp"
+        android:onClick="create"
+        android:layout_marginTop="550dp"
+        android:layout_marginStart="100dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/bungee"
+        android:text="Lets Create"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_button"/>
+
+</RelativeLayout>
